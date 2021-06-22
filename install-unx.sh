@@ -32,4 +32,4 @@ if [ "$1" = '--admin' ]; then
   fi
 else
   $TEXDIR/bin/*/tlmgr path add || true
-fi
+ fi
